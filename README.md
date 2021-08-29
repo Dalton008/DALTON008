@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/melisha-git">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalton008-git&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalton008-git&layout=compact&theme=radical&langs_count=10&hide=PHP,Roff,Swift,ASP.NET,HTML"/>
+  </a>
+</p>
